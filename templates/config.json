@@ -1,0 +1,19 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/travel_blog",
+    "prod_uri": "mysql://root:@localhost/travel_blog",
+    "fb_url": "https://facebook.com/TheRambler",
+    "tw_url": "https://twitter.com/the_rambler",
+    "gh_url": "https://github.com/yjane99",
+    "blog-name": "The Rambler",
+    "gmail-user": "",
+    "gmail-password": "",
+    "about-me": "Hi there, I am Yash. I'm 20 year old traveller and explorer. I like to explore new places, new people, new food, and new life in the world.",
+    "no_of_posts": 3,
+    "admin_user": "admin",
+    "admin_password": "admin",
+    "upload_location": "D:\\WORK\\Python\\Flask_Blog\\static"
+  }
+
+}
